@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # c3lf-qr-displayer
+
+#Release
+Get the release v1 [here](https://c3lf.vercel.app/apk/C3LF QR.apk)
